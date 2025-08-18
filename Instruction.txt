@@ -1,0 +1,31 @@
+technical terms in I.T
+
+Repository - Container
+Git - File to be uploaded 
+2 operations in GitHub 
+push - upload
+pull - download 
+
+Step by Step procedure in pushing a git file to GitHub 
+
+    git init
+    git add .
+    git commit -m "Your descriptive commit message"
+    git remote add origin [your_repository_url]
+(Replace [your_repository_url] 
+    git push -u origin main
+
+
+just in case there's an error , execute this code 
+
+git pull origin main --rebase
+git push origin main
+
+
+Things to download 
+Python -- www.python.org - Dowload the most recent version , don't forget to check the two boxes
+
+VScode -- https://code.visualstudio.com/ 
+
+
+Git -- https://git-scm.com/downloads 
