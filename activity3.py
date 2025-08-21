@@ -1,0 +1,1 @@
+print("\"The \nLazy \nBrown \nFox \tJumps Over The Lazy Dog//")
