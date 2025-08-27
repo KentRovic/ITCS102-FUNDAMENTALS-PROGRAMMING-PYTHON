@@ -1,2 +1,1 @@
-activity1.txt first activity print Hello World \n
-activity2.py print about my self
+Activity1.txt first activity Hello World
