@@ -1,2 +1,0 @@
-name = input("enter a string->")
-print("your name has", "len(input)","characters")
