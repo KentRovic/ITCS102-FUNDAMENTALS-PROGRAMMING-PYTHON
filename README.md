@@ -11,7 +11,7 @@
 
 [activity6.py](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/activity6.py) code calculator
 
-[codechallenge1.py ](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/CodeChallenge1.py) code spacing activity with \ commands
+[codechallenge1.py ](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/CodeChallenge1.py) code spacing activity with \ commands to create diamonds
 
 [codechallenge2.py ](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/CodeChallenge2.py) coding atm code fuction
 
