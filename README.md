@@ -18,3 +18,5 @@
 [codechallenge3.py](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/codechallenge3.py) coding login code function
 
 [codechallenge4.py](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/codechallenge4.py) code on identifying odd or even numbers
+
+[codechallenge5.py](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/codechallenge5.py) coding of multiple variables with multiple elif
