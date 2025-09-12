@@ -20,3 +20,18 @@
 [codechallenge4.py](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/codechallenge4.py) code on identifying odd or even numbers
 
 [codechallenge5.py](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/codechallenge5.py) coding of multiple variables with multiple elif
+
+[activity7.py
+](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/activity7.py) Semi Calculator
+
+[activity8.py](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/activity8.py) Not True Command
+
+[activity9.py](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/activity9.py) and/or cmd
+
+[activity10.py](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/activity10.py) discounting cmd
+
+[activity11.py](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/activity11.py) elif temperature cmd
+
+[activity12.py ](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/activity12.py) basic loop cmd
+
+[activity13.py](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/activity13.py) loop with double jump sumthing cmd
