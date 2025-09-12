@@ -11,16 +11,6 @@
 
 [activity6.py](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/activity6.py) code calculator
 
-[codechallenge1.py ](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/CodeChallenge1.py) code spacing activity with \ commands 
-
-[codechallenge2.py ](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/CodeChallenge2.py) coding atm code fuction
-
-[codechallenge3.py](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/codechallenge3.py) coding login code function
-
-[codechallenge4.py](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/codechallenge4.py) code on identifying odd or even numbers
-
-[codechallenge5.py](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/codechallenge5.py) coding of multiple variables with multiple elif
-
 [activity7.py
 ](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/activity7.py) Semi Calculator
 
@@ -35,3 +25,15 @@
 [activity12.py ](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/activity12.py) basic loop cmd
 
 [activity13.py](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/activity13.py) loop with double jump sumthing cmd
+
+
+[codechallenge1.py ](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/CodeChallenge1.py) code spacing activity with \ commands 
+
+[codechallenge2.py ](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/CodeChallenge2.py) coding atm code fuction
+
+[codechallenge3.py](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/codechallenge3.py) coding login code function
+
+[codechallenge4.py](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/codechallenge4.py) code on identifying odd or even numbers
+
+[codechallenge5.py](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/codechallenge5.py) coding of multiple variables with multiple elif
+
