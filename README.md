@@ -44,3 +44,5 @@
 [codechallenge8.py](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/codechallenge8.py) number in full multiplication number
 
 [codechallenge9.py](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/codechallenge9.py) countdown code
+
+[codechallenge10.py](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/codechallenge10.py) diamond Loop
