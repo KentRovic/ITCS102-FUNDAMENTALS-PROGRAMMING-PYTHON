@@ -9,7 +9,7 @@
 
 [activity5.py](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/activity5.py) code computing/calculating
 
-[activity6.py](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/activity6.py) code calculator
+ [activity6.py](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/activity6.py) code calculator
 
 [activity7.py
 ](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/activity7.py) Semi Calculator
@@ -37,3 +37,10 @@
 
 [codechallenge5.py](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/codechallenge5.py) coding of multiple variables with multiple elif
 
+[codechallenge6.py](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/codechallenge6.py) factoring number code
+
+[codechallenge7.py](http://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/codechallenge7.py) adding odd numbers
+
+[codechallenge8.py](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/codechallenge8.py) number in full multiplication number
+
+[codechallenge9.py](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/codechallenge9.py) countdown code
