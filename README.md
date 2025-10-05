@@ -61,7 +61,7 @@
 
 [codechallenge9.py](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/codechallenge9.py) countdown code
 
-[codechallenge10.py](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/codechallenge10.py) triange *
+[codechallenge10.py](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/codechallenge10.py) triangle *
 
 [codechallenge11.py](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/codechallenge11.py) diamond Loop
 
