@@ -45,4 +45,4 @@
 
 [codechallenge9.py](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/codechallenge9.py) countdown code
 
-[codechallenge10.py](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/codechallenge10.py) diamond Loop
+[codechallenge11.py](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/codechallenge11.py) diamond Loop
