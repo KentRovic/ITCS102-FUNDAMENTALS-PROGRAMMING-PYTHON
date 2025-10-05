@@ -26,6 +26,22 @@
 
 [activity13.py](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/activity13.py) loop with double jump sumthing cmd
 
+[activity14.py
+](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/activity14.py) Countdown code
+
+[activity15.py](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/activity15.py) name and odd number
+
+[activity16.py](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/activity16.py) 12345678910 left
+
+[activity17.py](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/activity17.py) square 12345678910
+
+[activity18.py](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/activity18.py) steep 12345678910
+
+[activity19.py](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/activity19.py) steep * 
+
+[activtiy20.py](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/activity20.py) opposite steep *
+
+
 
 [codechallenge1.py ](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/CodeChallenge1.py) code spacing activity with \ commands 
 
@@ -45,4 +61,10 @@
 
 [codechallenge9.py](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/codechallenge9.py) countdown code
 
+[codechallenge10.py](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/codechallenge10.py) triange *
+
 [codechallenge11.py](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/codechallenge11.py) diamond Loop
+
+[codechallenge12.py](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/codechallenge12.py) pascal's triangle
+
+[codechallenge13.py](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/codechallenge13.py) christmas tree
