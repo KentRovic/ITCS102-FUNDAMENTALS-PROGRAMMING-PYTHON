@@ -1,14 +1,6 @@
-for i in range (1,7,1):
-    print(i)
+for m in range(1,11):
+    for F in range(1,11):
+        print(F,end=" ")
 
-for x in range (7, i, -1):
-        print(" ", end= " ")
-
-for y in range (i, 0, -1):
-    print(y, end = " ")
-
-for z in range (2,i + 1):
-      print(z, end= " ")
-print()
-
-
+    print()
+    
