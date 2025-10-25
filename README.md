@@ -68,3 +68,5 @@
 [codechallenge12.py](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/codechallenge12.py) pascal's triangle
 
 [codechallenge13.py](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/codechallenge13.py) christmas tree
+
+[codechallenge14.py](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/codechallenge14.py) Odd/Break/Continue
