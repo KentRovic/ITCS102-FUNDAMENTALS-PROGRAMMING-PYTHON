@@ -41,6 +41,16 @@
 
 [activtiy20.py](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/activity20.py) opposite steep *
 
+[activity21](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/activity21.py) continue/break activity
+
+[activity22](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/activity22.py) guessing number activity
+
+[activity23](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/activity23.py) grouping/listing items activity+
+
+[activity24](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/activity24.py) importing code
+
+[activity24_1](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/activity24_1.py) code imports
+
 
 
 [codechallenge1.py ](https://github.com/KentRovic/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/master/CodeChallenge1.py) code spacing activity with \ commands 
